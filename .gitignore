@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# VsCode settings
+.vscode/
+
 gcm.cache/
 
 app
